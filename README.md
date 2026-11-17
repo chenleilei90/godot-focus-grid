@@ -1,5 +1,7 @@
 # Godot Focus Grid
 
+English · [简体中文](README.zh-CN.md)
+
 A small, dependency-free GDScript helper for explicit keyboard focus in inventory or menu grids. It works without textures or paid assets.
 
 ## Behaviour
